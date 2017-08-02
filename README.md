@@ -1,4 +1,4 @@
-<img src="/img/mean-socket-io-integration-tutorial-socketio-logo.png" width="100%"> 
+<img src="/img/mean-socket-io-integration-tutorial-socketio-logo.png"> 
 
 Agenda for day 11 making the api show realtime data with websockets    
 
